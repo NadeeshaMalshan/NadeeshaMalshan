@@ -77,14 +77,7 @@
 ![Riot Games](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riotgames&logoColor=white)
 ![Ubisoft](https://img.shields.io/badge/Ubisoft-F5F5F5?style=for-the-badge&logo=ubisoft&logoColor=black)
 
----
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NadeeshaMalshan&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadeeshaMalshan&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -112,11 +105,6 @@
 
 ---
 
-# ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
 
 # 🔝 Top Contributed Repo
 
